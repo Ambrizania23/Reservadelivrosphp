@@ -1,0 +1,91 @@
+html,
+body {
+    height: 100%
+}
+
+body {
+    background-color: #106eea;
+    display: grid;
+    place-items: center
+}
+
+.card {
+    padding: 0px 15px;
+    border-radius: 20px
+}
+
+.c1 {
+    background-color: #bbd8fe;
+    border-radius: 20px
+}
+
+a {
+    margin: 0px;
+    font-size: 13px;
+    border-radius: 7px;
+    text-decoration: none;
+    color: black
+}
+
+a:hover {
+    color: #ea5110;
+    background-color: #106eea;
+}
+
+.nav-link {
+    padding: 1rem 1.4rem;
+    margin: 0rem 0.7rem
+}
+
+.ac {
+    font-weight: bold;
+    color: #106eea;
+    font-size: 12px
+}
+
+input,
+button {
+    width: 100%;
+    border-radius: 6px;
+    border: 1px solid;
+    padding: 8px 17px;
+    font-size: 18px;
+}
+
+input {
+    text-decoration: none
+}
+
+.bt {
+    background-color: #106eea;
+    border: 1px solid rgb(300, 200, 200)
+}
+
+form {
+    margin-top: 70px
+}
+
+form>* {
+    margin: 10px 0px
+}
+
+#forgot {
+    margin: 0px -60px
+}
+
+#register {
+    text-align: center
+}
+
+
+.wlcm {
+    font-size: 30px
+}
+
+.sp1 {
+    font-size: 5px
+}
+
+.sp1>span {
+    background-color: #106eea
+}
